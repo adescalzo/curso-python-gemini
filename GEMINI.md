@@ -1,0 +1,1 @@
+This project is a Python course structured in modules. Each module is located in a directory named `MODULO_XX`, containing theoretical explanations in Markdown files and practical examples in a subdirectory called `ejemplos`. The course covers topics from an introduction to Python to more advanced concepts such as Machine Learning and interaction with APIs like Gemini.
